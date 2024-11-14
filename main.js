@@ -44,7 +44,7 @@ ScrollReveal({
     delay: 200,
  });
 
- ScrollReveal().reveal('.home-content, headeing', { origin: 'top' });
+ ScrollReveal().reveal('.home-content, header', { origin: 'top' });
  ScrollReveal().reveal('.home-img, .project-box, .contact form, .sosial-media2, .contact h3', { origin: 'buttom' });
  ScrollReveal().reveal('.home-contact h1, .about-img', { origin: 'left' });
  ScrollReveal().reveal('.home-contact p, .about-content', { origin: 'right' });
